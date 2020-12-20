@@ -1,5 +1,5 @@
 # Edge AI Computer Vision with Jetson Nano
-## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
+## by [Tertiary Courses](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [Edge AI Computer Vision with Jetson Nano](https://www.tertiarycourses.com.sg/computer-vision-jetson-nano-course.html) course. 
 
